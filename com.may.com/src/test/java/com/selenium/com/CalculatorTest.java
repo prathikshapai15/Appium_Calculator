@@ -22,7 +22,7 @@ public class CalculatorTest {
 			openCalcultor();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			System.out.println(e.getCause());
+			//System.out.println(e.getCause());
 			System.out.println(e.getMessage());
 		}
 
